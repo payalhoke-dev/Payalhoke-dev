@@ -1,5 +1,14 @@
 
+# Hi 👋, I'm Payal Hoke
+### 👨‍💻 .NET Developer at IntelliSource | Full-Stack .NET Enthusiast
 
+## 👩‍💻 About Me
+- 💼 .NET Developer at IntelliSource
+- 🌍 Based in India
+- 💻 Passionate about Full-Stack .NET Development
+- 🌱 Currently learning Azure, Docker, CI/CD, Unit Testing, and Clean Architecture
+- 🚀 Building projects with C#, ASP.NET Core, SQL Server, and Angular
+- 📚 Continuously improving my software engineering and problem-solving skills
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:payalhoke.dev@gamil.com) 
