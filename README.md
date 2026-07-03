@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Payal Hoke
-### 👨‍💻 .NET Developer at IntelliSource Technologies| Full-Stack .NET Enthusiast
+### 👨‍💻 .NET Developer at IntelliSource Technologies | Full-Stack .NET Enthusiast
 
 ## 👩‍💻 About Me
 - 💼 .NET Developer at IntelliSource Technologies
